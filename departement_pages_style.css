@@ -1,0 +1,48 @@
+.navbar{
+    position: fixed;
+    border-radius: 20px;
+    margin-bottom: 8px;
+    background-color: whitesmoke;
+  height: 80px;
+  width: 100%;
+  border: 5px;
+  border-radius: 10px;
+  }
+  .navbar img{
+  height: 80px;
+  width: 100px;
+  /* border-radius: 30px; */
+  margin-left: 50px;
+  }
+  .navbar button{
+    /* margin-left: 30px; */
+    padding: 5px;
+    margin-left: 5px;
+    background-color: whitesmoke;
+    border: 2px;
+    border-radius: 5px;
+  }
+  .wirte_up{
+    transform-origin: 100%;
+  }
+  h2{
+    background-color: rgb(240, 225, 225) ;
+  }
+  .deptfooter{
+    display: flex;
+    /* text-align: center; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    background-color: rgb(228, 236, 9);
+
+  }
+  .deptfooter img{
+    border-radius: 20px;
+   height: 100px;
+    width: 200px;
+  }
+
+  .deptfooter h2{
+   margin-left: 300px;
+    background-color: inherit;
+  }
